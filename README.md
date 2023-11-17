@@ -1,2 +1,2 @@
-# Optimizing_Chemical_Reactions
+# Optimizing Chemical Reactions
 CS238: Decision Making Under Uncertainty Final Project 
